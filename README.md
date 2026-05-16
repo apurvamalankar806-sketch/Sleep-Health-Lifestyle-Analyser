@@ -43,7 +43,7 @@ Surprising finding — casual walking barely affects sleep.
 Structured physical activity matters far more.
 
 ## Critical Insight
-> Sleep quality is never determined by a single factor alone.
+- Sleep quality is never determined by a single factor alone.
 > An engineer with high stress and poor BMI may sleep worse than
 > a sales rep with low stress and healthy habits. This dataset
 > reveals correlations — real sleep health is multidimensional
