@@ -44,10 +44,8 @@ Structured physical activity matters far more.
 
 ## Critical Insight
 - Sleep quality is never determined by a single factor alone.
-> An engineer with high stress and poor BMI may sleep worse than
-> a sales rep with low stress and healthy habits. This dataset
-> reveals correlations — real sleep health is multidimensional
-> and deeply personal.
+- An engineer with high stress and poor BMI may sleep worse than a sales rep with low stress and healthy habits.
+- This dataset reveals correlations — real sleep health is multidimensional and deeply personal.
 
 ## What's Next
 This EDA naturally sets up a **machine learning model** that combines
