@@ -42,15 +42,21 @@ Normal weight individuals sleep the most stably.
 Surprising finding — casual walking barely affects sleep.
 Structured physical activity matters far more.
 
-## Critical Insight
-- Sleep quality is never determined by a single factor alone.
-- An engineer with high stress and poor BMI may sleep worse than a sales rep with low stress and healthy habits.
-- This dataset reveals correlations — real sleep health is multidimensional and deeply personal.
+## ML Model
+| Detail | Value |
+|--------|-------|
+| Algorithm | Random Forest Classifier |
+| Features used | 10 (stress, age, heart rate, activity, BMI, and more) |
+| Target | Sleep Quality Score (4–9) |
+| Accuracy | 96.30% on clean deduplicated data |
+| Top predictor | Stress Level (importance score 0.30) |
 
-## What's Next
-This EDA naturally sets up a **machine learning model** that combines
-all factors simultaneously to predict sleep quality — far more powerful
-than analysing variables in isolation.
+### Feature Importance ranking:
+1. Stress Level — 0.30
+2. Age — 0.19
+3. Heart Rate — 0.13
+4. Physical Activity — 0.08
+5. Blood Pressure — 0.07
 
 # Conclusion
 Sleep quality is not driven by one factor — it is the result of
@@ -65,7 +71,4 @@ health quietly undermines sleep consistency even when other factors
 look fine.
 
 ## Tools Used
-- Python 3.10
-- Pandas — data manipulation
-- Seaborn — statistical visualisation
-- Matplotlib — plotting
+`Python` `Pandas` `Seaborn` `Matplotlib` `Scikit-learn` `Joblib` `Streamlit`
