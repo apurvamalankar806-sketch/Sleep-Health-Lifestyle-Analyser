@@ -87,4 +87,5 @@ health quietly undermines sleep consistency even when other factors
 look fine.
 
 ## Tools Used
-`Python` `Pandas` `Seaborn` `Matplotlib` `Scikit-learn` `Joblib` `Streamlit`
+`Python` `Pandas` `NumPy` `Seaborn` `Matplotlib`
+`Scikit-learn` `Joblib` `Streamlit`
