@@ -58,6 +58,12 @@ Structured physical activity matters far more.
 4. Physical Activity — 0.08
 5. Blood Pressure — 0.07
 
+### Streamlit App
+- Interactive EDA dashboard with filters
+- Smart sleep quality quiz — no medical jargon
+- ML-powered prediction with personalised tips
+- Deployed on Streamlit Cloud
+
 # Conclusion
 Sleep quality is not driven by one factor — it is the result of
 multiple variables working together. However, this analysis clearly
