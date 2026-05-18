@@ -9,16 +9,18 @@ physical activity influence sleep quality and duration.
 - **Features:** 13 variables including age, occupation, sleep duration,
   sleep quality, stress level, BMI, heart rate, and daily steps
 
-## Steps Covered
+## Project Breakdown
+
+### EDA Notebook
 | Step | Description |
 |------|-------------|
 | 1 | Setup & imports |
-| 2 | Load & explore the data |
+| 2 | Load & explore |
 | 3 | Data cleaning |
-| 4 | Histograms & distributions |
+| 4 | Distribution analysis |
 | 5 | Correlation heatmap |
-| 6 | Deep analysis — occupation, BMI, stress |
-| 7 | Conclusions & summary |
+| 6 | Deep dive — occupation, BMI, stress |
+| 7 | Conclusions |
 
 ## Key Findings
 
