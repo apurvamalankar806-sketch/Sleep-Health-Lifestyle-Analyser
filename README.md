@@ -22,7 +22,7 @@ physical activity influence sleep quality and duration.
 | 6 | Deep dive — occupation, BMI, stress |
 | 7 | Conclusions |
 
-## Key Findings
+### Key Findings
 
 **1. Stress is the #1 predictor of poor sleep (-0.90 correlation)**
 High stress almost guarantees poor sleep quality — the strongest
@@ -44,7 +44,7 @@ Normal weight individuals sleep the most stably.
 Surprising finding — casual walking barely affects sleep.
 Structured physical activity matters far more.
 
-## ML Model
+### ML Model
 | Detail | Value |
 |--------|-------|
 | Algorithm | Random Forest Classifier |
@@ -76,7 +76,7 @@ Structured physical activity matters far more.
 - ML-powered prediction with personalised tips
 - Deployed on Streamlit Cloud
 
-# Conclusion
+## Conclusion
 Sleep quality is not driven by one factor — it is the result of
 multiple variables working together. However, this analysis clearly
 shows that **stress management** and **consistent sleep duration**
