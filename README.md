@@ -52,11 +52,21 @@ Structured physical activity matters far more.
 | Top predictor | Stress Level (importance score 0.30) |
 
 ### Feature Importance ranking:
-1. Stress Level — 0.30
-2. Age — 0.19
-3. Heart Rate — 0.13
-4. Physical Activity — 0.08
-5. Blood Pressure — 0.07
+| Rank | Feature | Score |
+|------|---------|-------|
+| 1 | Stress Level | 0.30 |
+| 2 | Age | 0.19 |
+| 3 | Heart Rate | 0.13 |
+| 4 | Physical Activity | 0.08 |
+| 5 | Blood Pressure | 0.07 |
+| 6 | Daily Steps | 0.07 |
+| 7 | Occupation | 0.06 |
+| 8 | BMI Category | 0.05 |
+| 9 | Gender | 0.02 |
+| 10 | Sleep Disorder | 0.01 |
+
+---
+
 
 ### Streamlit App
 - Interactive EDA dashboard with filters
