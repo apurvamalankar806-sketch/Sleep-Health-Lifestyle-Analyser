@@ -8,7 +8,7 @@
 ![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
 
 ## About
-An end-to-end data science project combining Exploratory Data Analysis
+An end-to-end Data Science project combining Exploratory Data Analysis
 and Machine Learning to understand and predict sleep quality based on
 lifestyle and health factors.
 
@@ -33,7 +33,7 @@ Deployment coming soon on Streamlit Cloud
 
 ## Project Structure
 
-## 📓 EDA Notebook
+## EDA Notebook
 
 | Step | Description |
 |------|-------------|
